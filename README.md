@@ -28,3 +28,56 @@ require "cfg.php";
 
 ```
 
+
+### Folders Map
+
+```
+|-- assets
+|  |
+|  |-- css
+|  |-- font
+|  |-- img
+|  |-- js
+|  |-- scss
+|  |-- ts
+|
+|
+|-- backup
+|  |
+|  |-- DataBase
+|  |-- etc.
+|
+|
+|-- bin
+|  
+| 
+|-- config
+|  
+|  
+|-- docs
+|  |
+|  |-- documentation
+|  |-- IDEA
+|  |-- templates
+|  |-- Repo etc.
+|
+|
+|-- lib
+|
+|
+|-- logs
+|
+|
+|-- pages
+|
+|
+|-- script
+|
+|
+|-- src
+|
+|
+|-- test
+|
+|
+```
