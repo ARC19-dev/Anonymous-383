@@ -1,42 +1,30 @@
-# Guid Docs
+# EASEUP 
+## Guide Docs
 
-###### PHP
+##### Webpage Template
+Here is the template of webpages.
 ```php
-<?php
-$a = 500;
-$b = "amir";
 
-function Amir ($arg) {
-  echo $arg;
-  print_r($arg);
-}
+<?php 
+
+require "cfg.php";
+
 ?>
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="<?php echo CSS ?>pagename.css">
+    <title><?php echo $title; ?></title>
+</head>
+<body class="<?php echo $theme; ?>">
 
-<span attr="sth"> TXT </span>
 
+<script src="<?php echo JS ?>pagescript.js"></script>
+</body>
 </html>
 
 ```
 
-###### HTML
-
-```html
-<?php
-$a = 500;
-$b = "amir";
-
-function Amir ($arg) {
-  echo $arg;
-  print_r($arg);
-}
-?>
-
-<html>
-
-<span attr="sth"> TXT </span>
-
-</html>
-
-```
