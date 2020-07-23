@@ -89,7 +89,7 @@ require "cfg.php";
 Including **Classes**, **Source Files**, **DataBase(s)**, **Core Processor**, **Main Functionality**, etc.
 
 ### Script
-Includes **smaller scripts** (*that use source files*) like ajax processing, file uploading, etc.
+Includes **smaller scripts** (*that use source files*) like **ajax processing**, **file uploading**, etc.
 
 
 ## Task Lists
