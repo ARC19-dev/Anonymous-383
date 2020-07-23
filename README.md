@@ -110,7 +110,7 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 
 ## 4. Classes
 
-#### Company (_or Startup_)
+#### Company (_or Startup or Server_)
 #### Group (Room)
 <!-- #### Project -->
 #### User
