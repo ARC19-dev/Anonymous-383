@@ -5,7 +5,7 @@
 1. Webpage Templates
 2. Directory Map
 3. Task List
-4. etc.
+4. Classes
 
 
 ## 1. Webpage Templates
@@ -111,7 +111,7 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 
 #### Startup
 #### Group (Room)
-#### Project
+<!-- #### Project -->
 #### User
 #### Task
 #### Challenge
