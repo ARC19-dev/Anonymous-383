@@ -114,7 +114,7 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 #### Group (Room)
 <!-- #### Project -->
 #### User
-#### Chat
+#### Chat (PV / Group chat)
 #### Task
 #### Challenge
 #### Exam (Test / Quiz)
