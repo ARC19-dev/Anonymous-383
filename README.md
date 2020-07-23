@@ -1,7 +1,7 @@
 # EASEUP 
 ## Guide Docs
 
-##### Webpage Template
+### Webpage Template
 Here is the template of webpages.
 ```php
 
@@ -81,3 +81,12 @@ require "cfg.php";
 |
 |
 ```
+
+
+
+
+#### Src 
+Including **Classes**, **Source Files**, **DataBase(s)**, etc.
+
+#### Script
+Includes **smaller scripts** (*that use source files*) like ajax processing, etc.
