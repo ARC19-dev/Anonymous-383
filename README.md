@@ -36,7 +36,7 @@ require "cfg.php";
 ```
 
 
-## Directory Map
+## 2. Directory Map
 
 ```
 |-- assets
@@ -93,13 +93,13 @@ require "cfg.php";
 
 
 ### Src 
-Including **Classes**, **Source Files**, **DataBase(s)**, **Core Processor**, **Main Functionality**, etc.
+Including **Classes**, **Source Files**, **DataBase**, **Core Processor**, **Main Functionality**, etc.
 
 ### Script
 Includes **smaller scripts** (*that use source files*) like **ajax processing**, **file uploading**, etc.
 
 
-## Task Lists
+## 3. Task Lists
 - [ ] First Task
 - [x] Second Task
 - [ ] Third Task
@@ -107,3 +107,8 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 - [x] Nice Task
 - [ ] Task 3
 
+## 4. Classes
+
+#### Startup
+#### User
+#### Challenge
