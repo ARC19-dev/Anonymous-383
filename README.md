@@ -1,7 +1,14 @@
 # EASEUP Guide Docs
 
 
-## Webpage Template
+## Quick Look
+1. Webpage Templates
+2. Directory Map
+3. Task List
+4. etc.
+
+
+## 1. Webpage Templates
 Here is the template of webpages.
 ```php
 
@@ -29,7 +36,7 @@ require "cfg.php";
 ```
 
 
-## Folders Map
+## Directory Map
 
 ```
 |-- assets
@@ -99,3 +106,4 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 - [ ] Stupid Task
 - [x] Nice Task
 - [ ] Task 3
+
