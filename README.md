@@ -86,7 +86,16 @@ require "cfg.php";
 
 
 ### Src 
-Including **Classes**, **Source Files**, **DataBase(s)**, etc.
+Including **Classes**, **Source Files**, **DataBase(s)**, **Core Processor**, **Main Functionality**, etc.
 
 ### Script
-Includes **smaller scripts** (*that use source files*) like ajax processing, etc.
+Includes **smaller scripts** (*that use source files*) like ajax processing, file uploading, etc.
+
+
+## Task Lists
+- [ ] First Task
+- [x] Second Task
+- [ ] Third Task
+- [ ] Stupid Task
+- [x] Nice Task
+- [ ] Task 3
