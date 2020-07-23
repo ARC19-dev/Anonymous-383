@@ -110,5 +110,10 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 ## 4. Classes
 
 #### Startup
+#### Group (Room)
+#### Project
 #### User
+#### Task
 #### Challenge
+#### Exam (Test / Quiz)
+#### Contract (_قرارداد_)
