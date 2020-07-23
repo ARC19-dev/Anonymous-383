@@ -100,12 +100,10 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 
 
 ## 3. Task Lists
-- [ ] First Task
-- [x] Second Task
-- [ ] Third Task
-- [ ] Stupid Task
-- [x] Nice Task
-- [ ] Task 3
+- [ ] Clear (log)
+- [ ] Log in the tag
+- [ ] print_r (log with detail)
+- [ ] Classes
 
 
 ## 4. Classes
@@ -122,3 +120,4 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 #### Question (_بخش کافه_)
 ###### Roundtable (_میز گرد_)
 
+## 5. CSS Rules
