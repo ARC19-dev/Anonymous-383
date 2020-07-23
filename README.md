@@ -1,7 +1,7 @@
-# EASEUP 
-## Guide Docs
+# EASEUP Guide Docs
 
-### Webpage Template
+
+## Webpage Template
 Here is the template of webpages.
 ```php
 
@@ -29,7 +29,7 @@ require "cfg.php";
 ```
 
 
-### Folders Map
+## Folders Map
 
 ```
 |-- assets
@@ -85,8 +85,8 @@ require "cfg.php";
 
 
 
-#### Src 
+### Src 
 Including **Classes**, **Source Files**, **DataBase(s)**, etc.
 
-#### Script
+### Script
 Includes **smaller scripts** (*that use source files*) like ajax processing, etc.
