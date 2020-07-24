@@ -2,13 +2,60 @@
 
 
 ## Quick Look
-1. Webpage Templates
-2. Directory Map
-3. Task List
-4. Classes
+* [CSS Rules](#css-rules)
+* [IMG Naming Standards](#img-naming-standards)
+* [Webpage Templates](#webpage-templates)
+* [Directory Map](#directory-map)
+* [Task Lists](#task-lists)
+* [Classes](#classes)
 
 
-## 1. Webpage Templates
+## CSS Rules 
+
+### Media Queries
+The following media queries must be defined. also you can define your own media queries too.
+```css
+@media only screen and (max-width: 1600px) {} // Optional
+
+@media only screen and (max-width: 1200px) {}
+@media only screen and (max-width: 992px) {}
+@media only screen and (max-width: 768px) {}
+@media only screen and (max-width: 600px) {}
+
+@media only screen and (max-width: 400px) {} // Optional
+```
+
+### Naming Standard
+use the first class name not the second one or others
+```css
+.class-name {
+    property: value;
+    true: true;
+} 
+
+.ClassName {
+    False: Wrong;
+}
+
+.class_name {
+    Incorrect: Unacceptable;
+}
+```
+
+## IMG Naming Standards
+```html
+<image-name>.<format>
+
+setting.jpg         ACCEPTED
+user-profile.png    ACCEPTED
+
+user_profile.jpg    NOT ACCEPTED
+userProject.png     NOT ACCEPTED
+uSeR_pR$oF*i@e.jpg  =\
+```
+
+
+## Webpage Templates
 Here is the template of webpages.
 ```php
 
@@ -36,7 +83,7 @@ require "cfg.php";
 ```
 
 
-## 2. Directory Map
+## Directory Map
 
 ```
 |-- assets
@@ -99,14 +146,15 @@ Including **Classes**, **Source Files**, **DataBase**, **Core Processor**, **Mai
 Includes **smaller scripts** (*that use source files*) like **ajax processing**, **file uploading**, etc.
 
 
-## 3. Task Lists
+## Task Lists
 - [ ] Clear (log)
 - [ ] Log in the tag
 - [ ] print_r (log with detail)
 - [ ] Classes
 
-
-## 4. Classes
+<!-- #classes
+# classes -->
+## Classes
 
 #### Company (_or Startup or Server_)
 #### Group (Room)
@@ -120,4 +168,3 @@ Includes **smaller scripts** (*that use source files*) like **ajax processing**,
 #### Question (_بخش کافه_)
 ###### Roundtable (_میز گرد_)
 
-## 5. CSS Rules
