@@ -3,6 +3,7 @@
 
 ## Quick Look
 * [CSS Rules](#css-rules)
+* [CSS CDN](#css-cdn)
 * [IMG Naming Standards](#img-naming-standards)
 * [Webpage Templates](#webpage-templates)
 * [Directory Map](#directory-map)
@@ -41,6 +42,13 @@ use the first class name not the second one or others
     Incorrect: Unacceptable;
 }
 ```
+
+### CSS CDN 
+There is a cdn for core css `https://easeup.ir/assets/css/core.css`
+
+You can use `<link rel="stylesheet" href="https://easeup.ir/assets/css/core.css">` in your **HTML**
+
+or `@import url("https://easeup.ir/assets/css/core.css");` in your **CSS**
 
 ## IMG Naming Standards
 ```html
