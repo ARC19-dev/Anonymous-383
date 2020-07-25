@@ -46,9 +46,18 @@ use the first class name not the second one or others
 ### CSS CDN 
 There is a cdn for core css `https://easeup.ir/assets/css/core.css`
 
-You can use `<link rel="stylesheet" href="https://easeup.ir/assets/css/core.css">` in your **HTML**
+#### HTML
+You can use in your **HTML**
+```html
+<link rel="stylesheet" href="https://easeup.ir/assets/css/core.css">
+```
+_**or**_
 
-or `@import url("https://easeup.ir/assets/css/core.css");` in your **CSS**
+#### CSS
+use in your **CSS**
+```css
+@import url("https://easeup.ir/assets/css/core.css");
+```
 
 ## IMG Naming Standards
 ```html
